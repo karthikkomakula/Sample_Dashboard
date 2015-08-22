@@ -1,17 +1,7 @@
-td,th
+.headclass
 {
-border: 1px solid black;
-}
-h1       {
-	background-color:grey; 
-	
-              } 
-#paraid{
-	line-height:1.5;
-}
+ background-color: #FFCC99;
 
-.paraclass {
-	text-transform: capitalize;
-	 line-height: 2; 
-	color: green
+text-transform: uppercase;
+ background-image: logo.jpg;
 }
